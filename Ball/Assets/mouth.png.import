@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ball.png-1953c7d658a9d52aab6b71a2f962f6ac.stex"
+path="res://.import/mouth.png-a5cc754fad3d7c4a9def689ad827eb3a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ball.png"
-dest_files=[ "res://.import/ball.png-1953c7d658a9d52aab6b71a2f962f6ac.stex" ]
+source_file="res://Ball/Assets/mouth.png"
+dest_files=[ "res://.import/mouth.png-a5cc754fad3d7c4a9def689ad827eb3a.stex" ]
 
 [params]
 

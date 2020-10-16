@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/eye.png-7630948329d5e29781df0fb2b21bd0ec.stex"
+path="res://.import/pupil.png-7c06d28c208dc83bf4d7366e30f487cb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/eye.png"
-dest_files=[ "res://.import/eye.png-7630948329d5e29781df0fb2b21bd0ec.stex" ]
+source_file="res://Ball/Assets/pupil.png"
+dest_files=[ "res://.import/pupil.png-7c06d28c208dc83bf4d7366e30f487cb.stex" ]
 
 [params]
 
